@@ -1,0 +1,24 @@
+.uploadContainer span div {
+  width: 40px!important;;
+  height: 40px!important;;
+}
+
+.card:hover{
+}
+
+iframe{
+  width: 80%;
+  height: 400px;
+}
+
+.uploadBtn {
+  width: 100px;
+  height: 70px;
+  text-align: center;
+  line-height: 65px;
+  border: 2px dotted #dadada;
+}
+.uploadBtn:hover {
+  cursor: pointer;
+  opacity: 0.5;
+}

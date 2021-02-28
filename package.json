@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "node-sass": "4.14.1",
+    "react-responsive": "^8.2.0",
+    "react-router-dom": "^5.2.0"
+  },
+  "scripts": {
+    "dev-web": "cd web && yarn start",
+    "dev-server": "cd server && nodemon src/model_server/server.js"
+  }
+}
